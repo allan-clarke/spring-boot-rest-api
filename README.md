@@ -1,1 +1,1 @@
-# spring-rest-api
+Basic Spring Boot REST API implementation
